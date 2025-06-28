@@ -5,5 +5,4 @@ def firstone():
     now = datetime.now()
     print("Current time:", now)
 
-if __name__ == "__main__":
-    firstone()
+firstone()
